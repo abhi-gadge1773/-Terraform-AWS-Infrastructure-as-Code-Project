@@ -58,7 +58,7 @@ Provision and manage AWS cloud infrastructure using **Terraform** with automatio
 
 ### 1️⃣ Clone Repository
 ```bash
-
+git clone https://github.com/abhi-gadge1773/-Terraform-AWS-Infrastructure-as-Code-Project.git
 ```
 
 ### 2️⃣ Initialize Terraform
